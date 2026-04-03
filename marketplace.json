@@ -12,7 +12,7 @@
       }
     },
     {
-      "name": "claude-caffeinate",
+      "name": "caffeinate",
       "source": {
         "source": "github",
         "repo": "jul-sh/claude-caffeinate"
