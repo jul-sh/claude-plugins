@@ -17,6 +17,13 @@
         "source": "github",
         "repo": "jul-sh/claude-caffeinate"
       }
+    },
+    {
+      "name": "captain-claude",
+      "source": {
+        "source": "github",
+        "repo": "jul-sh/captain-claude"
+      }
     }
   ]
 }
