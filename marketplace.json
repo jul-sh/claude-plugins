@@ -1,0 +1,22 @@
+{
+  "name": "jul-sh",
+  "owner": {
+    "name": "Juliette Pluto"
+  },
+  "plugins": [
+    {
+      "name": "captain-codex",
+      "source": {
+        "source": "github",
+        "repo": "jul-sh/captain-codex"
+      }
+    },
+    {
+      "name": "claude-caffeinate",
+      "source": {
+        "source": "github",
+        "repo": "jul-sh/claude-caffeinate"
+      }
+    }
+  ]
+}
